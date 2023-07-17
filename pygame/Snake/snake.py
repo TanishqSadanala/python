@@ -66,7 +66,7 @@ class Snake(GenerateRectangles):
         super().__init__(color, size, position)
         self._snakeColor = color
         self._snakeSize = size 
-        self._snakeDirection = MovementKey_config[pygame.K_LEFT]
+        self._snakeDirection = MovementKey_config[pygame.K_RIGHT]
         self.snake_rects = [GenerateRectangles(color, size, position)]
         self.snake_alive = True
         
