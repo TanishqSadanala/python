@@ -1,4 +1,7 @@
-snake game without colliderect in pygame
+snake game without colliderect in pygame 
+
 refrences from @leojweda
-OOP concepts used
+
+used OOP.
+
 tried to maximise readability
